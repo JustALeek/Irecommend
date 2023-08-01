@@ -4,8 +4,9 @@ h1{
 
 #website_name{
     background-color: orange;
+    margin: 10px;
     width: auto;
-    height: auto;
+    height: 400%;
     position: static;
 
     font-family:Arial, Helvetica, sans-serif;
