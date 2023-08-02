@@ -23,3 +23,8 @@ section{
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
 }
+
+li{
+    display: inline-block;
+    margin: 10px;
+}
